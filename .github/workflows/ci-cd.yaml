@@ -26,5 +26,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/sam-234/codealpha-web-app:latest
+          tags: ghcr.io/sam-234/codealpha-task1:latest
           
