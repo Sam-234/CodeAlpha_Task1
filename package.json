@@ -1,0 +1,10 @@
+{
+  "name": "codealpha-web-app",
+  "version": "1.0.0",
+  "description": "CodeAlpha Task 1 DevOps Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {}
+}
