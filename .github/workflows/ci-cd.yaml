@@ -27,3 +27,4 @@ jobs:
           context: .
           push: true
           tags: ghcr.io/sam-234/codealpha-web-app:latest
+          
